@@ -1,0 +1,1 @@
+Arduino drives a 50Hz PWM signal whose on-time is fixed.

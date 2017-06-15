@@ -1,0 +1,1 @@
+Arduino drives a 50Hz PWM signal whose on-time is specified by a Serial input. The Serial input should be a decimal number, ended with a '\n'.

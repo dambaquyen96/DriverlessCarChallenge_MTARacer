@@ -1,0 +1,1 @@
+/home/ubuntu/dev/openni_opencv/build/CMakeFiles/test-openni-opencv.dir

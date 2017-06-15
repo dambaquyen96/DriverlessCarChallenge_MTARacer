@@ -1,0 +1,10 @@
+/home/ubuntu/dev/carControl/build/0.3/peripheral_driver/i2c/CMakeFiles/i2c-pwm.dir
+/home/ubuntu/dev/carControl/build/0.3/stereo_vision/CMakeFiles/test-kinect-cv2-2.dir
+/home/ubuntu/dev/carControl/build/0.3/lane_detection/CMakeFiles/vanishing-point.dir
+/home/ubuntu/dev/carControl/build/0.3/peripheral_driver/i2c/CMakeFiles/test-steering-throttle.dir
+/home/ubuntu/dev/carControl/build/0.3/lane_detection/CMakeFiles/test-vanishing-point.dir
+/home/ubuntu/dev/carControl/build/0.3/CMakeFiles/test-omp.dir
+/home/ubuntu/dev/carControl/build/0.3/stereo_vision/CMakeFiles/kinect-cv2.dir
+/home/ubuntu/dev/carControl/build/0.3/stereo_vision/CMakeFiles/test-kinect-cv2.dir
+/home/ubuntu/dev/carControl/build/0.3/peripheral_driver/uart/CMakeFiles/uart.dir
+/home/ubuntu/dev/carControl/build/0.3/peripheral_driver/uart/CMakeFiles/test-uart.dir

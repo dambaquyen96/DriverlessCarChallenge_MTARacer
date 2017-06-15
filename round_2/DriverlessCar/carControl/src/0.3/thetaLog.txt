@@ -1,0 +1,170 @@
+Goc theta:0.000000
+Center: [308, 359]
+Goc theta:0.000000
+Center: [308, 359]
+Center: [308, 359]
+Goc theta:0.000000
+Center: [307, 359]
+Goc theta:0.000000
+Goc theta:0.000000
+Center: [303, 359]
+Goc theta:0.000000
+Center: [301, 359]
+Goc theta:0.000000
+Center: [304, 359]
+Goc theta:0.000000
+Center: [302, 359]
+Goc theta:0.000000
+Center: [302, 359]
+Goc theta:0.000000
+Center: [303, 359]
+Goc theta:0.000000
+Center: [305, 359]
+Goc theta:0.000000
+Center: [308, 359]
+Goc theta:0.000000
+Center: [308, 359]
+Goc theta:0.000000
+Center: [306, 359]
+Goc theta:0.000000
+Center: [305, 359]
+Goc theta:0.000000
+Center: [300, 359]
+Goc theta:0.000000
+Center: [302, 359]
+Goc theta:0.000000
+Center: [307, 359]
+Goc theta:0.000000
+Center: [310, 359]
+Goc theta:0.000000
+Center: [305, 359]
+Goc theta:0.000000
+Center: [299, 359]
+Goc theta:0.000000
+Center: [292, 359]
+Goc theta:1.721337
+Center: [291, 359]
+Goc theta:7.355990
+Center: [288, 359]
+Center: [282, 359]
+Goc theta:18.552277
+Goc theta:14.832247
+Center: [284, 359]
+Goc theta:0.000000
+Center: [299, 359]
+Goc theta:0.000000
+Center: [319, 359]
+Center: [347, 359]
+Goc theta:-49.531586
+Goc theta:-75.621376
+Center: [362, 359]
+Goc theta:-120.547081
+Center: [392, 359]
+Goc theta:-145.556710
+Center: [411, 359]
+Goc theta:-146.801556
+Center: [412, 359]
+Goc theta:-137.733823
+Center: [403, 362]
+Goc theta:-107.799826
+Center: [383, 359]
+Goc theta:-56.617829
+Center: [351, 359]
+Goc theta:-35.111566
+Center: [339, 359]
+Goc theta:-14.832247
+Center: [328, 359]
+Goc theta:29.627634
+Center: [276, 359]
+Goc theta:44.160985
+Center: [268, 359]
+Goc theta:35.111566
+Center: [273, 359]
+Goc theta:136.701715
+Center: [211, 364]
+Goc theta:164.060990
+Center: [187, 361]
+Goc theta:0.000000
+Center: [314, 359]
+Goc theta:0.000000
+Center: [314, 359]
+Goc theta:0.000000
+Center: [314, 359]
+Goc theta:0.000000
+Center: [313, 359]
+Goc theta:0.000000
+Center: [311, 359]
+Goc theta:0.000000
+Center: [310, 359]
+Goc theta:0.000000
+Center: [307, 359]
+Goc theta:0.000000
+Center: [305, 359]
+Goc theta:0.000000
+Center: [304, 359]
+Goc theta:0.000000
+Center: [304, 359]
+Goc theta:0.000000
+Center: [309, 359]
+Goc theta:0.000000
+Center: [310, 359]
+Goc theta:0.000000
+Center: [316, 359]
+Goc theta:-1.721337
+Center: [321, 359]
+Goc theta:-12.967509
+Center: [327, 359]
+Goc theta:-35.111566
+Center: [339, 359]
+Goc theta:-47.746548
+Center: [346, 359]
+Goc theta:-72.222105
+Center: [360, 359]
+Goc theta:-88.392946
+Center: [370, 359]
+Goc theta:-104.889584
+Center: [381, 359]
+Goc theta:-104.889584
+Center: [381, 359]
+Goc theta:-103.424022
+Center: [380, 359]
+Goc theta:-61.873317
+Center: [354, 359]
+Center: [339, 359]
+Goc theta:-35.111566
+Goc theta:35.111566
+Center: [273, 359]
+Goc theta:89.926228
+Center: [241, 359]
+Goc theta:143.045717
+Center: [203, 359]
+Goc theta:-70.041946
+Center: [362, 349]
+Goc theta:-86.089848
+Center: [372, 350]
+Goc theta:-152.961443
+Center: [406, 375]
+Goc theta:-182.897167
+Center: [460, 350]
+Goc theta:128.212533
+Center: [203, 339]
+Goc theta:119.727026
+Center: [219, 356]
+Goc theta:106.348194
+Center: [230, 359]
+Goc theta:91.452912
+Center: [240, 359]
+Goc theta:51.311328
+Center: [264, 359]
+Goc theta:36.930794
+Center: [272, 359]
+Goc theta:0.000000
+Center: [293, 359]
+Goc theta:-16.693879
+Center: [329, 359]
+Goc theta:-135.341554
+Center: [403, 359]
+Goc theta:-159.590152
+Center: [419, 364]
+Goc theta:-72.842072
+Center: [358, 366]

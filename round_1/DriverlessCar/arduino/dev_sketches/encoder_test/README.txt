@@ -1,0 +1,1 @@
+This is an Arduino sketch designed to test the functionality of an encoder hardware.

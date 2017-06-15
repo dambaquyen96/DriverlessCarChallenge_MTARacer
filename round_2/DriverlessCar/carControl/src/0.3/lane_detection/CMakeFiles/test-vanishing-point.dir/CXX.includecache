@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Downloads/Lou_pid_30_4_vong2/DriverlessCar/carControl/src/0.3/lane_detection/api_lane_detection.h
+stdio.h
+/home/ubuntu/Downloads/Lou_pid_30_4_vong2/DriverlessCar/carControl/src/0.3/lane_detection/stdio.h
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/core/core.hpp
+/home/ubuntu/Downloads/Lou_pid_30_4_vong2/DriverlessCar/carControl/src/0.3/lane_detection/opencv2/core/core.hpp
+vector
+-
+iostream
+-
+iomanip
+-
+
+/home/ubuntu/Downloads/Lou_pid_30_4_vong2/DriverlessCar/carControl/src/0.3/lane_detection/test_lane_detection.cpp
+api_lane_detection.h
+/home/ubuntu/Downloads/Lou_pid_30_4_vong2/DriverlessCar/carControl/src/0.3/lane_detection/api_lane_detection.h
+
